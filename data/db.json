@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": "8000",
+      "checked": true
+    },
+    {
+      "name": "mouse",
+      "price": "500",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "clavier",
+      "price": "1000",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "disque dur",
+      "price": "900",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "printer2",
+      "price": "3000",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "laptop",
+      "price": "9000",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Ecran",
+      "price": "2000",
+      "checked": true,
+      "id": 9
+    }
+  ]
+}
